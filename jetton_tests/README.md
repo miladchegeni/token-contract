@@ -50,7 +50,7 @@ This project allows you to:
 
 +   Setup values in *fift/send_jettons.fif*  
 +   Run:`toncli send -n testnet -a 0.1 --address < your jetton wallet addr>  --body fift/send_jettons.fif`  
-
+jetton_tests
 ## Burning jettons
 
   To burn jettons
